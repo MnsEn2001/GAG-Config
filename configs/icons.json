@@ -1,1 +1,5 @@
-
+{
+  "shops": "https://raw.githubusercontent.com/MnsEn2001/GAG-Config/main/icons/shops/",
+  "items": "https://raw.githubusercontent.com/MnsEn2001/GAG-Config/main/icons/items/",
+  "fallback": "https://via.placeholder.com/32"
+}
