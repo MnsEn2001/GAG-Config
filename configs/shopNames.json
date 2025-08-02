@@ -1,1 +1,8 @@
-
+{
+  "seed": "Seed Shop",
+  "egg": "Egg Shop",
+  "gear": "Gear Shop",
+  "honey": "Trad Chi",
+  "cosmetics": "Cosmetics Shop",
+  "travelingmerchant": "Merchant"
+}
